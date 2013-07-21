@@ -1,0 +1,15 @@
+This exapmle project is created for studying spring spring mvc.
+
+To clone this project 
+
+git clone git@github.com:smayoorans/spring-mvc-example.git
+
+To run this project
+
+to go the project directory (ie., spring-mvc-example > )
+
+Type following command in terminal
+
+mvn clean install jetty:run
+
+
